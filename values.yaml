@@ -8,7 +8,7 @@ image:
   repository: rick1113/demo-node-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart version.
-  tag: 28
+  tag: 29
 
 imagePullSecrets: []
 nameOverride: ""
