@@ -2,13 +2,13 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: rick1113/demo-node-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart version.
-  tag: 29
+  tag: 30
 
 imagePullSecrets: []
 nameOverride: ""
