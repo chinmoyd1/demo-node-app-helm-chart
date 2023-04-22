@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/chinmoyd1/demo-node-app-k8.git
+    repoURL: https://github.com/chinmoyd1/demo-node-app-helm-chart.git
     targetRevision: main
     path: .
   destination:
